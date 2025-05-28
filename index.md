@@ -1,91 +1,66 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Atilla Alsan's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Atilla Alsan
+Softwareingenieur
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:alsan.atilla@icloud.com">alsan.atilla@icloud.com</a>
+| <a href="https://www.linkedin.com/in/DEIN_LINKEDIN_PROFILNAME_HIER">LinkedIn Profil</a>
 </div>
 
+## Profil
+Als Softwareentwickler brenne ich für innovative Technologien und das Tüfteln an kreativen Lösungen für knifflige Probleme. Meine Erfahrung, besonders in der Entwicklung von C#-APIs und in PowerApps-Projekten, bringe ich gerne ein, um wirklich nützliche und spannende Projekte mitzugestalten.
 
-## Currently
+### Kernkompetenzen
+*   Entwicklung von APIs in C# und Python
+*   Deployment in Azure DevOps
+    *   Einrichtung von CI/CD Pipelines
+*   PowerApps Entwicklung
+    *   SharePoint
+    *   GraphQL
+    *   Power Automate
+    *   Dataverse
+*   Jira Workflow
+    *   Konfigurierung von Issue-Typen und Automatisierungen
+*   Dokumentation in Confluence
 
-Standing on the shoulders of giants
+## Akademische Laufbahn
 
-### Specialized in
+`Oktober 2019 - November 2023`
+__Technische Hochschule Deggendorf.__
+- Bachelor in Medizinische Informatik
+- Abschlussthema: Konzeption und Entwicklung einer Cross Platform App die AI integriert um Diabetes Patienten zu helfen Ihre eigenen Symptome besser zu verstehen.
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`Oktober 2021 - Februar 2022`
+__Uniklinik Regensburg.__
+- Praxissemester
+- Entwicklung einer neuen Rest-API für die Cloud "UKR Box".
+- Verantwortlich für die Konzeption und Entwicklung der API.
+- Einsatz von C# und ASP.NET MVC.
 
+## Beruflicher Werdegang
 
-### Research interests
+`01.01.2025 - heute`
+__Gabo mbH.__
+- Softwareentwickler
+- Konzeption und Umsetzung von Power Platform Lösungen (SharePoint, Dataverse) zur Digitalisierung und Optimierung von Arbeitsabläufen.
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`März 2022 - 31.12.2025`
+__Weko Gruppe.__
+- Softwareentwickler
+- Konzeption und Entwicklung einer API für das unternehmenseigene ERP (Microsoft Dynamics).
+- Implementierung einer automatisierten Bestellabwicklung mittels EDIFACT.
+- Leitung eines PowerApps-Projekts zur Kaufvertragsdigitalisierung mit signifikanter Zeitersparnis.
+- Sicherstellung des API-Deployments über Azure DevOps.
 
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+## Hobbys
+*   Laufen
+*   Radfahren
+*   Schwimmen
+*   Krafttraining
 
 <!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+Last updated: Mai 2025
+-->
